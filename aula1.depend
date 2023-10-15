@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1697374406 source:/home/gedalias/Documentos/aula-cpp/aula1/main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+	<map>
+	<functional>
+	"action.h"
+	"helper.h"
+	"model.h"
+
+1697322130 /home/gedalias/Documentos/aula-cpp/aula1/action.h
+	<iostream>
+	<vector>
+	<string.h>
+
+1697321560 source:/home/gedalias/Documentos/aula-cpp/aula1/action.cpp
+	"action.h"
+	<sys/stat.h>
+	<dirent.h>
+	<string.h>
+
+1697307606 source:/home/gedalias/Documentos/aula-cpp/aula1/helper.cpp
+	"helper.h"
+
+1697322047 /home/gedalias/Documentos/aula-cpp/aula1/helper.h
+	<iostream>
+	<vector>
+	<string>
+
+1697374501 /home/gedalias/Documentos/aula-cpp/aula1/model.h
+

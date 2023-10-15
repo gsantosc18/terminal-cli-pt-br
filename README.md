@@ -1,2 +1,2 @@
-# terminal-cli-pt-br
+# Terminal CLI PT-BR
 Estudos de programação em C++
